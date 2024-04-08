@@ -18,11 +18,12 @@
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/programmer-working-with-cms_52683-23279.jpg?w=740&t=st=1676917024~exp=1676917624~hmac=1f92a8e1128bb8c55cd3f865abcf92c474fb08e5695e62a0e2477307fc4d28db">
 
 
-- 🔭 I’m currently working on **Web-Development**
 
 - 🌱 I’m currently learning **Full Stack developement**
 
 - 💬 Ask me about **Web Development , Machine Learning **
+  
+- 🔭 Protfolio: **<a>https://pro-kaushik-protfolio.netlify.app/<a/>**
 
 - 📫 How to reach me **<a>https://pro-kaushik-protfolio.netlify.app/<a/>**
 <hr>
