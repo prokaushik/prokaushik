@@ -25,7 +25,7 @@
   
 - 🔭 Protfolio: **<a>https://pro-kaushik-protfolio.netlify.app/<a/>**
 
-- 📫 How to reach me **<a>https://pro-kaushik-protfolio.netlify.app/<a/>**
+- 📫 How to reach me **<a>Prince.dubia03@gmail.com<a/>**
 <hr>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=prokaushik&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
