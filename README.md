@@ -20,11 +20,11 @@
 
 - 🔭 I’m currently working on **Web-Development**
 
-- 🌱 I’m currently learning **Front_End developement**
+- 🌱 I’m currently learning **Full Stack developement**
 
 - 💬 Ask me about **Web Development , Machine Learning **
 
-- 📫 How to reach me **prince.dubia03@gmail.com**
+- 📫 How to reach me **<a>https://pro-kaushik-protfolio.netlify.app/<a/>**
 <hr>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=prokaushik&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
